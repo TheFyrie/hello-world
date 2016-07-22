@@ -1,2 +1,3 @@
 # hello-world
-learning to use git
+This is for learning to use git!
+
